@@ -13,4 +13,4 @@ data: ingestion, cleaning, PII protection, and a Power BI dashboard that covers 
 - `ASG_Airlines_Documentation.docx` — assumptions, cleaning logic, PII approach, data model, dashboard walkthrough
 
 ## How to Run
-Open the notebook in Jupyter, ensure `pandas` and `haslib` are installed, and run from top to bottom. This reproduces the cleaned CSVs used in the Power BI dashboard.
+Open the notebook in Jupyter, ensure `pandas` and `openpyxl` are installed, and run from top to bottom. This reproduces the cleaned CSVs used in the Power BI dashboard.
